@@ -1,5 +1,5 @@
 {
-    "commerceSuiteVersion": "2211",
+    "commerceSuiteVersion": "2211.5",
     "enableImageProcessingService": true,
     "extensions": [
         "cloudmediaconversion",
@@ -547,7 +547,7 @@
             "properties": [
                 {
                     "key": "cluster.node.groups",
-                    "value": "integration,yHotfolderCandidate"
+                    "value": "integration,yHotfolderCandidate,backgroundProcessing"
                 }
             ],
             "webapps": [
