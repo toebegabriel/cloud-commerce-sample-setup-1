@@ -178,6 +178,10 @@
             "name": "backoffice",
             "properties": [
                 {
+                     "key": "task.engine.loadonstartup",
+                     "value": "false"
+                },
+                {
                     "key": "backoffice.solr.search.index.autoinit",
                     "value": "true"
                 },
